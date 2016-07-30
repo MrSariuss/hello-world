@@ -1,2 +1,5 @@
 # hello-world
-tutorial
+
+Hello there!
+
+I think I'm gonna learn some programming
